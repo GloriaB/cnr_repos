@@ -9,6 +9,6 @@ repositories:
     version: main
   planning/robal_interfaces:
     type: git
-    url: https://gitlab.com/asantamarianavarro/code/projects/triffid/robal_interfaces.git
+    url: git@gitlab.com:asantamarianavarro/code/projects/triffid/robal_interfaces.git
     version: main
  
