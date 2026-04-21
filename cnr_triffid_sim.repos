@@ -1,13 +1,13 @@
 repositories:
-  platinum_triffid_mqtt_ros2_bridge:
+  planning/platinum_triffid_mqtt_ros2_bridge:
     type: git
     url: https://github.com/GloriaB/platinum_triffid_mqtt_ros2_bridge
     version: main
-  ugv_monitor:
+  planning/ugv_monitor:
     type: git
     url: https://github.com/GloriaB/ugv_monitor
     version: main
-   planning/robal_interfaces:
+  planning/robal_interfaces:
     type: git
     url: https://gitlab.com/asantamarianavarro/code/projects/triffid/robal_interfaces.git
     version: main
