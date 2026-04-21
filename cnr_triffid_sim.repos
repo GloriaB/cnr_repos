@@ -7,4 +7,8 @@ repositories:
     type: git
     url: https://github.com/GloriaB/ugv_monitor
     version: main
+   planning/robal_interfaces:
+    type: git
+    url: https://gitlab.com/asantamarianavarro/code/projects/triffid/robal_interfaces.git
+    version: main
  
